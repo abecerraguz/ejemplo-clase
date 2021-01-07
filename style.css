@@ -7,9 +7,9 @@ body {
 } 
   
 h1 {
-  color: red;
+  color: rgb(40, 9, 9);
   font-family: 'Space Mono', monospace;
-  font-size: 3rem;
+  font-size: 8rem;
   text-align: center;
   font-weight: 300;
 }
